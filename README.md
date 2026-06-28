@@ -6,7 +6,7 @@
 ![Apache](https://img.shields.io/badge/Apache-XAMPP-CA2136?style=for-the-badge&logo=apache&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
-A full-stack web application for managing student academic records, faculty, attendance, marks, GPA/CGPA, and generating analytical reports — built with PHP, MySQL, and Bootstrap.
+A full-stack web application for managing student academic records, faculty, attendance, marks, GPA/CGPA, and generating analytical reports  built with PHP, MySQL, and Bootstrap.
 
 ## 📸 Screenshots
 
